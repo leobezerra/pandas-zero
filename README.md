@@ -1,6 +1,6 @@
 # pandas-zero
 
-Este repositório foi pensado para quem não sabe programar, mas trabalha (ou quer trabalhar) com ciência de dados 🙃
+Este repositório foi pensado para quem não sabe programar, mas trabalha ou quer trabalhar com ciência de dados 🙃
 
 >  Outro repositório bem legal pra isso é o [ds-zero](https://github.com/leobezerra/ds-zero) 👍
 
@@ -23,5 +23,6 @@ O autor de cada material está devidamente creditado e agradecido 😉
 - [[natanlimas]](https://github.com/natanlimas) Dataframes como bancos de dados 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/DataframeDB.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master)
 
 - Extração, transformação e carga (ETL)
