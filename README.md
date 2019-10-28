@@ -28,13 +28,13 @@ Neste repo, usaremos notebooks com o ecossistema Python e sua biblioteca princip
 
 ## Conhecendo o Pandas
 
-- Primeiros passos 
+#### Primeiros passos 
 
-- [[natanlimas]](https://github.com/natanlimas) Dataframes como bancos de dados 
+#### [[natanlimas]](https://github.com/natanlimas) Dataframes como bancos de dados 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/DataframeBD.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master)
 
-- [[kallil12]](https://github.com/kallil12) Análise e apresentação de dados
+#### [[kallil12]](https://github.com/kallil12) Análise e apresentação de dados
 
-- Extração, transformação e carga (ETL)
+#### Extração, transformação e carga (ETL)
