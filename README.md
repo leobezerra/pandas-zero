@@ -1,4 +1,4 @@
-# pandas-zero
+# Ciência de dados antes da programação
 
 Este repositório foi pensado para quem não sabe programar, mas trabalha ou quer trabalhar com ciência de dados 🙃
 
