@@ -28,7 +28,9 @@ Neste repo, usaremos notebooks com o ecossistema Python e sua biblioteca princip
 
 ## Conhecendo o Pandas
 
-#### Primeiros passos 
+#### [[jonathanjalles]](https://github.com/jonathanjalles) Primeiros passos 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/PassoPasso.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
 #### [[natanlimas]](https://github.com/natanlimas) Dataframes como bancos de dados 
 
