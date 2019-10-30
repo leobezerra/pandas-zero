@@ -6,7 +6,7 @@ Este repositório foi pensado para quem não sabe programar, mas trabalha ou que
 
 ### Disclaimer
 
-Este é um repositório colaborativo, criado pelos alunos do Instituto Metrópole Digital da UFRN.
+Este é um repositório colaborativo, criado pelos alunos do [Instituto Metrópole Digital](imd.ufrn.br) da UFRN.
 
 O autor de cada material está devidamente creditado e agradecido 😉 
 
@@ -36,5 +36,8 @@ Neste repo, usaremos notebooks com o ecossistema Python e sua biblioteca princip
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
 #### [[kallil12]](https://github.com/kallil12) Análise e apresentação de dados
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Visualizacao.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
 #### Extração, transformação e carga (ETL)
