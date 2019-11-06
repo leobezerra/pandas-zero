@@ -43,3 +43,18 @@ Neste repo, usaremos notebooks com o ecossistema Python e sua biblioteca princip
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
 #### Extração, transformação e carga (ETL)
+
+
+## Trabalhando com múltiplas bases de dados
+
+Uma das possibilidades que ferramentas CLI abre é trabalhar com múltiplas bases de dados ao mesmo tempo.
+
+Os notebooks abaixo são alguns exemplos de análises que agregam informações espalhadas em múltiplas bases.
+
+#### [[leobezerra]](https://github.com/leobezerra) Concatenando informações de múltiplas bases
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/UFRN-diversidade.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
+
+#### [[leobezerra]](https://github.com/leobezerra) Cruzando informações de múltiplas bases
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/UFRN-disciplinas.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
