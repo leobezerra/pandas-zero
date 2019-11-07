@@ -44,6 +44,8 @@ Neste repo, usaremos notebooks com o ecossistema Python e sua biblioteca princip
 
 #### Extração, transformação e carga (ETL)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/ETL.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
 ## Trabalhando com múltiplas bases de dados
 
