@@ -2,7 +2,9 @@
 
 Este repositório foi pensado para quem não sabe programar, mas trabalha ou quer trabalhar com ciência de dados 🙃
 
->  Outro repositório bem legal pra isso é o [ds-zero](https://github.com/leobezerra/ds-zero) 👍
+> Outro repositório bem legal pra isso é o [ds-zero](https://github.com/leobezerra/ds-zero) 👍
+
+> Se você já programa e quer um repo ritmo acelerado, dê uma olhada [nesse aqui](https://github.com/ivanovitchm/datascience_one_2019_1) 😎
 
 ### Disclaimer
 
