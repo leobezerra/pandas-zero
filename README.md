@@ -57,7 +57,7 @@ Uma das possibilidades que ferramentas CLI abre é trabalhar com múltiplas base
 
 Os notebooks abaixo são alguns exemplos de análises que agregam informações espalhadas em múltiplas bases.
 
-#### [[leobezerra]](https://github.com/leobezerra) Concatenando informações de múltiplas bases
+#### [[leobezerra]](https://github.com/leobezerra) Unindo informações de múltiplas bases
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/UFRN-diversidade.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
