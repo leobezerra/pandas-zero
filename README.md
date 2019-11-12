@@ -2,7 +2,9 @@
 
 Este repositório foi pensado para quem não sabe programar, mas trabalha ou quer trabalhar com ciência de dados 🙃
 
->  Outro repositório bem legal pra isso é o [ds-zero](https://github.com/leobezerra/ds-zero) 👍
+> Outro repositório bem legal pra isso é o [ds-zero](https://github.com/leobezerra/ds-zero) 👍
+
+> Se você já programa e quer um repo ritmo acelerado, dê uma olhada [nesse aqui](https://github.com/ivanovitchm/datascience_one_2019_1) 😎
 
 ### Disclaimer
 
@@ -42,8 +44,12 @@ Neste repo, usaremos notebooks com o ecossistema Python e sua biblioteca princip
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Visualizacao.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
-#### Extração, transformação e carga (ETL)
+#### [[mildo]](https://github.com/mildo) Extração, transformação e carga de dados (ETL)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/ETL.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
+
+> Os notebooks acima foram originalmente criados pelos autores indicados e posteriormente revisados com a adição de conteúdos de múltiplos autores deste repositório.
 
 ## Trabalhando com múltiplas bases de dados
 
@@ -51,7 +57,7 @@ Uma das possibilidades que ferramentas CLI abre é trabalhar com múltiplas base
 
 Os notebooks abaixo são alguns exemplos de análises que agregam informações espalhadas em múltiplas bases.
 
-#### [[leobezerra]](https://github.com/leobezerra) Concatenando informações de múltiplas bases
+#### [[leobezerra]](https://github.com/leobezerra) Unindo informações de múltiplas bases
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/UFRN-diversidade.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/notebooks)
 
