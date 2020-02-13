@@ -64,3 +64,13 @@ Os notebooks abaixo são alguns exemplos de análises que agregam informações 
 #### [[leobezerra]](https://github.com/leobezerra) Cruzando informações de múltiplas bases
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/UFRN-disciplinas.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
+
+## Explorando seus dados
+
+Uma parte essencial do processo de ciência de dado é investigar de forma exploratória os seus dados.
+
+Os notebooks a seguir apresentam conceitos importantes sobre distribuições, relações entre dados e redução de dimensionalidade.
+
+#### [[leobezerra]](https://github.com/leobezerra) Visualizando e identificando distribuições
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Distribuição_Dados.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
