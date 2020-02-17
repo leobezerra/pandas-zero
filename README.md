@@ -74,3 +74,8 @@ Os notebooks a seguir apresentam conceitos importantes sobre distribuições, re
 #### [[kallil12]](https://github.com/kallil12) Visualizando e identificando distribuições
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Distribuição_Dados.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
+
+#### [[mildo]](https://github.com/mildo) Relações entre características
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Relações.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
+
