@@ -67,9 +67,9 @@ Os notebooks abaixo são alguns exemplos de análises que agregam informações 
 
 ## Explorando seus dados
 
-Uma parte essencial do processo de ciência de dado é investigar de forma exploratória os seus dados.
+Uma parte essencial do processo de ciência de dados é investigar de forma exploratória os seus dados.
 
-Os notebooks a seguir apresentam conceitos importantes sobre distribuições, relações entre dados e redução de dimensionalidade.
+Os notebooks a seguir apresentam conceitos importantes sobre distribuições, relações entre dados e análise interativa de dados.
 
 #### [[kallil12]](https://github.com/kallil12) Visualizando e identificando distribuições
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Distribuição_Dados.ipynb)
