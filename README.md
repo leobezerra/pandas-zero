@@ -2,7 +2,7 @@
 
 This repository was planned for those who don't know how to code, but work or want to work with data science 🙃
 
-If you want to access it in English, follow [this link](en/README.md)
+If you want to access it in English, follow [this link](en/README.md).
 
 # Ciência de dados antes da programação
 

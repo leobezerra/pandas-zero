@@ -6,7 +6,7 @@ This repository was planned for those who don't know how to code, but work or wa
 
 ### Disclaimer
 
-This is a collaborative repository, created by the student of[Instituto Metrópole Digital](imd.ufrn.br) from [UFRN](ufrn.br).
+This is a collaborative repository, created by the students of [Instituto Metrópole Digital](imd.ufrn.br) from [UFRN](ufrn.br).
 
 The author of each notebook is properly acknowledged 😉 
 
@@ -28,7 +28,7 @@ In this repo, we will use notebooks with the Python ecossystem and its main libr
 
 ## Meeting Pandas
 
-#### [[jonathanjalles]](https://github.com/jonathanjalles)[leobezerra](https://github.com/leobezerra] First steps
+#### [[jonathanjalles]](https://github.com/jonathanjalles)[[leobezerra]](https://github.com/leobezerra) First steps
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/en/notebooks/PassoPasso.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
