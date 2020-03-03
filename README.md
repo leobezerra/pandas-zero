@@ -1,4 +1,4 @@
-# Ciência de dados antes da programação
+# Data science before coding
 
 This repository was planned for those who don't know how to code, but work or want to work with data science 🙃
 
