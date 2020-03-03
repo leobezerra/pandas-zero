@@ -31,22 +31,22 @@ Neste repo, usaremos notebooks com o ecossistema Python e sua biblioteca princip
 ## Conhecendo o Pandas
 
 #### [[jonathanjalles]](https://github.com/jonathanjalles) Primeiros passos 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/PassoPasso.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/PassoPasso.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 #### [[natanlimas]](https://github.com/natanlimas) Dataframes como bancos de dados 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/DataframeBD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/DataframeBD.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 #### [[kallil12]](https://github.com/kallil12) Análise e apresentação de dados
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Visualizacao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Visualizacao.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 #### [[mildo]](https://github.com/mildo) Extração, transformação e carga de dados (ETL)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/ETL.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/ETL.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 > Os notebooks acima foram originalmente criados pelos autores indicados e posteriormente revisados com a adição de conteúdos de múltiplos autores deste repositório.
@@ -58,11 +58,11 @@ Uma das possibilidades que ferramentas CLI abre é trabalhar com múltiplas base
 Os notebooks abaixo são alguns exemplos de análises que agregam informações espalhadas em múltiplas bases.
 
 #### [[leobezerra]](https://github.com/leobezerra) Unindo informações de múltiplas bases
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/UFRN-diversidade.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-diversidade.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 #### [[leobezerra]](https://github.com/leobezerra) Cruzando informações de múltiplas bases
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/UFRN-disciplinas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-disciplinas.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 ## Explorando seus dados
@@ -72,14 +72,14 @@ Uma parte essencial do processo de ciência de dados é investigar de forma expl
 Os notebooks a seguir apresentam conceitos importantes sobre distribuições, relações entre dados e análise interativa de dados.
 
 #### [[kallil12]](https://github.com/kallil12) Visualizando e identificando distribuições
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Distribuição_Dados.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Distribuição_Dados.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 #### [[mildo]](https://github.com/mildo) Relações entre características
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Relações.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Relações.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 #### [[jonathanjalles]](https://github.com/jonathanjalles) Interagindo visualmente com dados
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/notebooks/Visualização_interativa.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Visualização_interativa.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
