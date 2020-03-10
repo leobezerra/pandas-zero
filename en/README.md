@@ -32,8 +32,6 @@ In this repo, we will use notebooks with the Python ecossystem and its main libr
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/en/notebooks/First_steps.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
-https://github.com/leobezerra/pandas-zero/blob/master/en/notebooks/Data_analysis_and_presentation.ipynb
-
 #### [[jonathanjalles]](https://github.com/jonathanjalles)[[eBetcel]](https://github.com/eBetcel) Data analysis and presentation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/en/notebooks/Data_analysis_and_presentation.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
