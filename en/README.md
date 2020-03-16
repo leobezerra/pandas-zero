@@ -46,37 +46,11 @@ In this repo, we will use notebooks with the Python ecossystem and its main libr
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/en/notebooks/ETL.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
-<!--
+## Working with multiples bases
 
-## Trabalhando com múltiplas bases de dados
 
-Uma das possibilidades que ferramentas CLI abre é trabalhar com múltiplas bases de dados ao mesmo tempo.
-
-Os notebooks abaixo são alguns exemplos de análises que agregam informações espalhadas em múltiplas bases.
-
-#### [[leobezerra]](https://github.com/leobezerra) Unindo informações de múltiplas bases
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-diversidade.ipynb)
+#### [[leobezerra]](https://github.com/leobezerra)  [[samuellucas97]](https://github.com/Samuellucas97) [[gabrielqap]](https://github.com/gabrielqap) [[Fellipe-a]](https://github.com/Fellipe-a) [[RayanXY]](https://github.com/RayanXY) [[thyall]](https://github.com/thyall)  Combining information from mutliple bases
+[![Open in Colab]](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/leobezerra/pandas-zero/blob/master/en/notebooks/Combining_Information_From_Multiple_Bases.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
-#### [[leobezerra]](https://github.com/leobezerra) Cruzando informações de múltiplas bases
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/UFRN-disciplinas.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
-## Explorando seus dados
-
-Uma parte essencial do processo de ciência de dados é investigar de forma exploratória os seus dados.
-
-Os notebooks a seguir apresentam conceitos importantes sobre distribuições, relações entre dados e análise interativa de dados.
-
-#### [[kallil12]](https://github.com/kallil12) Visualizando e identificando distribuições
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Distribuição_Dados.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
-
-#### [[mildo]](https://github.com/mildo) Relações entre características
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Relações.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
-
-#### [[jonathanjalles]](https://github.com/jonathanjalles) Interagindo visualmente com dados
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/pt-br/notebooks/Visualização_interativa.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
--->
