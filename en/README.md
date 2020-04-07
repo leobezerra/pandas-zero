@@ -43,6 +43,7 @@ In this repo, we will use notebooks with the Python ecossystem and its main libr
 #### [[kallil12]](https://github.com/kallil12)[[eBetcel]](https://github.com/eBetcel) Data analysis and presentation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/en/notebooks/Visualization.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red.svg)](https://youtu.be/T6vWiEvAy4U)
 
 #### [[mildo]](https://github.com/mildo)[[isaacgdo]](https://github.com/isaacgdo) Extraction, transformation and load (ETL)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/en/notebooks/ETL.ipynb)
