@@ -52,7 +52,7 @@ In this repo, we will use notebooks with the Python ecossystem and its main libr
 ## Working with multiples bases
 
 #### [[leobezerra]](https://github.com/leobezerra)[[samuellucas97]](https://github.com/Samuellucas97) Combining information from multiple bases
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/leobezerra/pandas-zero/blob/master/en/notebooks/Combining_Information_From_Multiple_Bases.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/pandas-zero/blob/master/en/notebooks/Combining_Information_From_Multiple_Bases.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pandas-zero/master/)
 
 
