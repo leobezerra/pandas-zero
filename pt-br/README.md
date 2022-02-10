@@ -4,7 +4,7 @@ Este repositório foi pensado para quem não sabe programar, mas trabalha ou que
 
 > Outro repositório bem legal pra isso é o [ds-zero](https://github.com/leobezerra/ds-zero) 👍
 
-> Se você já programa e quer um repo em um ritmo acelerado, dê uma olhada [nesse aqui](https://github.com/ivanovitchm/datascience_one_2019_1) 😎
+> Se você já programa e quer um repo em um ritmo acelerado, dê uma olhada [nesse aqui](https://github.com/ivanovitchm/datascience2020.6) 😎
 
 ### Disclaimer
 
